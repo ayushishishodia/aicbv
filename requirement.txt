@@ -1,5 +1,5 @@
 streamlit
-ultralytics
+ultralytics==8.0.196
 opencv-python-headless
 numpy
 pandas
